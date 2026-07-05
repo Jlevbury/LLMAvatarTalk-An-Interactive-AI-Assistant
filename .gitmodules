@@ -1,0 +1,6 @@
+[submodule "unified-app/vendor/hermes-agent"]
+	path = unified-app/vendor/hermes-agent
+	url = https://github.com/NousResearch/hermes-agent
+[submodule "unified-app/vendor/airi"]
+	path = unified-app/vendor/airi
+	url = https://github.com/moeru-ai/airi

@@ -8,6 +8,12 @@ LLMAvatarTalk is an innovative project that combines state-of-the-art AI technol
 
 </div>
 
+> [!TIP]
+> Looking for a fully containerized, browser-based alternative? See
+> [`unified-app/`](./unified-app/README.md) — a Docker Compose stack that pairs
+> [Hermes Agent](https://github.com/NousResearch/hermes-agent) (agentic LLM backend)
+> with [AIRI](https://github.com/moeru-ai/airi) (VRM/Live2D avatar frontend with ASR/TTS).
+
 ## Demo
 Click the thumbnail below to watch the demo on YouTube:
 [![Watch the video](./images/DemoCover.jpg)](https://www.youtube.com/watch?v=G17fgkN3e0w)
